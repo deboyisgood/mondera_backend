@@ -6,4 +6,5 @@
   The app is designed for monday.com 2020 app contest.
   
 1.) db_monday.SQL files is what hold the Sql tables.
+
 2.) data6rst.php is what hold the database credentials.
